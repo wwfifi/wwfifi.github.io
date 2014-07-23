@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[wwfifi blog]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-07-23T08:22:33.881Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[wwfifi]]></name>
+    
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[第一个post]]></title>
+    <link href="http://yoursite.com/2014/07/24/firstpost/"/>
+    <id>http://yoursite.com/2014/07/24/firstpost/</id>
+    <published>2014-07-23T23:41:04.000Z</published>
+    <updated>2014-07-23T08:11:21.000Z</updated>
+    <content type="html"><![CDATA[<p>样式用了landscape-plus，并改了一下样式，头占那么大空间实在太浪费了。</p>
+]]></content>
+    
+    
+  </entry>
+  
+</feed>
