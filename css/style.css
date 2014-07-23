@@ -188,6 +188,7 @@ body {
     float: left;
     width: 73.3333333333333%;
     margin: 0 0.8333333333333%;
+    padding: 25px 0 0 0;
   }
 }
 .article-date,
@@ -1391,6 +1392,7 @@ pre .javascript .function {
     float: left;
     width: 23.3333333333333%;
     margin: 0 0.8333333333333%;
+    padding: 25px 0 0 0;
   }
 }
 .widget-wrap {
