@@ -379,7 +379,7 @@ body {
   position: absolute;
   left: 0;
   right: 0;
-  height: 40px;
+  height: 0px;
 }
 #header:before {
   top: 0;
